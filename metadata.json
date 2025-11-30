@@ -1,0 +1,5 @@
+{
+  "name": "Copy of SIM Keeper",
+  "description": "A smart SIM card management tool designed to track usage deadlines for giffgaff and other carriers. Features expiration countdowns, visual health indicators, and AI-assisted SMS generation to keep lines active.",
+  "requestFramePermissions": []
+}
